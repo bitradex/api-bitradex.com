@@ -16,7 +16,7 @@ public class HttpUtil {
     private static final String secretKey = "1ef01a3e3ea04867d725f3e9583a911ec5575840";
     private static final String encry = "HmacSHA256";
     private static final String contentType = "application/json";
-    private static final String baseUrl = "http://api.ubit.site";
+    private static final String baseUrl = "http://api.noah.site";
     private static final String window = "6000";
     static {
         GlobalHeaders.INSTANCE.clearHeaders();

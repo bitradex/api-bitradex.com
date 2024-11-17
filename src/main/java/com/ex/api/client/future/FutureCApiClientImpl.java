@@ -13,7 +13,7 @@ import retrofit2.converter.jackson.JacksonConverterFactory;
  */
 public class FutureCApiClientImpl extends AbstractFutureApiClient {
 
-    private final static String API_URL = "http://api.ubit.site/v1/future-c/";
+    private final static String API_URL = "http://api.noah.site/v1/future-c/";
 
     private final FutureApiService service;
 

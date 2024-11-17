@@ -17,7 +17,7 @@ import retrofit2.converter.jackson.JacksonConverterFactory;
  */
 public class SpotApiClientImpl implements SpotApiClient {
 
-    private final static String API_URL = "http://api.ubit.site";
+    private final static String API_URL = "http://api.noah.site";
 
     private final SpotApiService service;
 
