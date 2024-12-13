@@ -12,10 +12,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * BTC BASE Future
- * @create 2023/9/20 16:15
- */
 public class BFutureApiClientTest {
     Gson gson = new Gson();
     FutureApiClient client = new FutureCApiClientImpl(null);

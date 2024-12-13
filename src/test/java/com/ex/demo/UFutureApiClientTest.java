@@ -10,10 +10,6 @@ import org.junit.Test;
 
 import java.util.*;
 
-/**
- * USDT BASE Future
- * @create 2023/9/20 16:15
- */
 public class UFutureApiClientTest {
     Gson gson = new Gson();
     FutureApiClient client = new FutureUApiClientImpl(null);

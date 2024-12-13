@@ -4,9 +4,6 @@ import lombok.Builder;
 import lombok.Data;
 
 
-/**
- * @create 2023/9/21 18:03
- */
 @Data
 @Builder
 public class FutureBatchOrderRequest {

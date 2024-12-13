@@ -8,9 +8,6 @@ import org.apache.commons.codec.digest.HmacUtils;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * @create 2022/10/28 10:48
- */
 public class HttpUtil {
     private static final String appKey = "ded60ef1-ac8b-435f-912e-72c57618a8e8";
     private static final String secretKey = "1ef01a3e3ea04867d725f3e9583a911ec5575840";

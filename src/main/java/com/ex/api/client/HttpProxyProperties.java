@@ -2,9 +2,6 @@ package com.ex.api.client;
 
 import lombok.Data;
 
-/**
- * @create 2023/4/21 10:53
- */
 @Data
 public class HttpProxyProperties {
 

@@ -4,9 +4,6 @@ import com.ex.api.dto.CommonResponse;
 import com.ex.api.dto.spot.SpotPostOrderRequest;
 
 
-/**
- * @create 2023/9/20 11:48
- */
 public interface SpotApiClient {
 
 

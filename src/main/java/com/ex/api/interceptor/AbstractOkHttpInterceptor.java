@@ -12,11 +12,6 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-/**
- * filter and add header,generate sign for validate
- *
- * @create 2023/9/21 10:43
- */
 public abstract class AbstractOkHttpInterceptor implements Interceptor {
 
     protected static final String appKey = "f1ebdcfe-ff0c-4db5-a1de-f8825afba4dd";

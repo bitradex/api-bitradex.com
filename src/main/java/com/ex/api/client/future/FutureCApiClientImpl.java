@@ -7,10 +7,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.jackson.JacksonConverterFactory;
 
 
-/**
- * B-BASE Future
- * @create 2023/9/20 12:18
- */
 public class FutureCApiClientImpl extends AbstractFutureApiClient {
 
     private final static String API_URL = "http://api.noah.site/v1/future-c/";

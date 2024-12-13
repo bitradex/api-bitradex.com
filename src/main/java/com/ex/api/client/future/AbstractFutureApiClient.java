@@ -12,9 +12,6 @@ import retrofit2.Response;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @create 2023/9/20 18:23
- */
 public abstract class AbstractFutureApiClient implements FutureApiClient {
     private final Gson gson = new Gson();
     @Override

@@ -8,10 +8,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * spot business
- * @create 2022/10/28 15:04
- */
 public class RestTest {
 
     @Test
