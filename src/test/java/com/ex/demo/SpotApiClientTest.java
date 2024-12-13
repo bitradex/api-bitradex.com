@@ -5,10 +5,6 @@ import com.ex.api.dto.CommonResponse;
 import com.ex.api.dto.spot.SpotPostOrderRequest;
 import org.junit.Test;
 
-/**
- * SPOT Business
- * @create 2023/9/20 16:15
- */
 public class SpotApiClientTest {
 
     SpotApiClientImpl spotApiClient = new SpotApiClientImpl(null);

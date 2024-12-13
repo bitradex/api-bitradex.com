@@ -5,9 +5,6 @@ import com.ex.api.dto.spot.SpotPostOrderRequest;
 import retrofit2.Call;
 import retrofit2.http.*;
 
-/**
- * @create 2023/9/20 14:28
- */
 public interface SpotApiService {
 
     @POST("/v1/spot/order")

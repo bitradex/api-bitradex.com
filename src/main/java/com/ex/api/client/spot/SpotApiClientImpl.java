@@ -12,9 +12,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.jackson.JacksonConverterFactory;
 
 
-/**
- * @create 2023/9/20 12:18
- */
 public class SpotApiClientImpl implements SpotApiClient {
 
     private final static String API_URL = "http://api.noah.site";

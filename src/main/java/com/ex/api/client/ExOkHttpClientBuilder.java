@@ -6,9 +6,6 @@ import java.net.InetSocketAddress;
 import java.net.Proxy;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @create 2023/9/20 15:47
- */
 public class ExOkHttpClientBuilder {
 
 

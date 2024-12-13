@@ -10,9 +10,6 @@ import retrofit2.http.*;
 
 import java.util.Map;
 
-/**
- * @create 2023/9/20 14:28
- */
 public interface FutureApiService {
 
     @POST("/v1/future-u/trade/order/create")
